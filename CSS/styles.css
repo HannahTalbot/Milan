@@ -3,3 +3,13 @@ color: rgb(65,75,86);
 font-family: arial;
 margin: 0px;
 }
+div {
+min-height: 100vh;
+Width: 100vw;
+}
+h1, h2 {
+text-align: center;
+}
+h1 {
+font-size: 5em;
+}
